@@ -1,4 +1,6 @@
-# generador-boleta-de-pago
+# Clean Architecture Example
+
+Nombre del proyecto: Generador Boletas de Pago
 
 Este es el proyecto final de la materia de arquitectura de software. Es un generador de 
 boletas de pagos desarrollado bajo una arquitectura limpia y siguiendo buenas practicas de clean code. Tiene buena 
